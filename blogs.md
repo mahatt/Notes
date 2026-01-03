@@ -9,3 +9,7 @@
 + [Cache Friendly Binary Search](https://algorithmica.org/en/eytzinger)  
 # Compiler Optimizations
 + [Control flow meld](https://github.com/charitha22/llvm-project-codesize/commits/cfm-dev/)
+
+# Resources docs
++ https://kib.kiev.ua/x86doc
++ 
